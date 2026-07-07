@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📋 Suivi de Projet & Communication en Temps Réel
+# Suivi de Projet & Communication en Temps Réel
 ### Application web MERN — gestion de projets, tâches, événements et chat instantané
 
 *Projet de Fin d'Études réalisé au sein de **OCP Safi***
@@ -20,7 +20,7 @@
 
 ---
 
-## ⚡ En un coup d'œil
+## En un coup d'œil
 
 | | |
 |---|---|
@@ -49,7 +49,7 @@
 
 ---
 
-## 🧩 Description
+## Description
 
 Cette application web permet de **centraliser le suivi de projets** au sein d'une équipe : gestion des utilisateurs et de leurs rôles, création et suivi de projets/phases/tâches, planification d'événements, notifications en temps réel, et un système de **chat intégré** pour fluidifier la communication entre les membres.
 
@@ -89,7 +89,7 @@ Le flux type : les interactions utilisateur sur l'interface React envoient des r
 
 ---
 
-## 🔄 Pipeline REST API
+## Pipeline REST API
 
 Détail du cycle complet d'une requête HTTP classique (ex. créer une tâche, lister les projets, modifier un utilisateur) :
 
@@ -105,7 +105,7 @@ Détail du cycle complet d'une requête HTTP classique (ex. créer une tâche, l
 
 ---
 
-## 📡 Pipeline Socket.io — temps réel
+## Pipeline Socket.io — temps réel
 
 Détail du flux pour la messagerie instantanée et les notifications (le même mécanisme sert aussi aux mises à jour de statut de tâche en direct) :
 
@@ -122,7 +122,7 @@ Détail du flux pour la messagerie instantanée et les notifications (le même m
 
 ---
 
-## 🗂 Diagramme de classe
+## Diagramme de classe
 
 Modélisation des entités principales du système : employés (administrateurs et normaux), rôles, projets, phases, tâches, statuts, notifications, conversations, messages, événements et todo-lists — avec leurs relations (associations, agrégations, compositions).
 
@@ -130,7 +130,7 @@ Modélisation des entités principales du système : employés (administrateurs 
 
 ---
 
-## 📐 Conception UML
+## Conception UML
 
 La conception s'appuie sur UML pour visualiser, spécifier et documenter le système avant son implémentation :
 
@@ -139,12 +139,12 @@ La conception s'appuie sur UML pour visualiser, spécifier et documenter le syst
 
 ---
 
-## 🎬 Démonstration vidéo
+## Démonstration vidéo
 
 
 ---
 
-## 🖥️ Aperçu des interfaces
+## Aperçu des interfaces
 
 | Page de connexion | Tableau de bord |
 |---|---|
@@ -161,7 +161,7 @@ La conception s'appuie sur UML pour visualiser, spécifier et documenter le syst
 
 ---
 
-## 🛠️ Stack technique
+## Stack technique
 
 | Domaine | Technologies |
 |---|---|
@@ -175,7 +175,7 @@ La conception s'appuie sur UML pour visualiser, spécifier et documenter le syst
 
 ---
 
-## 🚀 Prérequis & installation
+## Prérequis & installation
 
 **Prérequis :**
 - Node.js et npm installés
@@ -204,7 +204,7 @@ L'application front-end tourne par défaut sur `http://localhost:3000` et l'API 
 
 ---
 
-## 📁 Structure du projet
+## Structure du projet
 
 ```
 suivi-projet-mern/
