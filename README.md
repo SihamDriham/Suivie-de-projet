@@ -235,7 +235,7 @@ suivi-projet-mern/
 <div align="center">
 
 **DRIHAM Siham**
-Ingénieure d'État en Big Data — ENSA El Jadida
+Ingénieure d'État en Big Data 
 🔗 [LinkedIn](https://www.linkedin.com/in/siham-driham-955838238/) · 📧 [sihamdriham@gmail.com]
 
 ---
